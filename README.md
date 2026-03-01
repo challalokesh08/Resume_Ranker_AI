@@ -32,3 +32,7 @@ Ensure you have Python 3.9+ installed.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/challalokesh08/Resume_Ranker_AI.git](https://github.com/challalokesh08/Resume_Ranker_AI.git)
+
+
+DEMO
+https://resumerankerai-dtgdsnjhat7zuz4xfrzdiv.streamlit.app/
